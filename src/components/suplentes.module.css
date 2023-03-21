@@ -1,0 +1,35 @@
+.img {
+    --size: 4.5rem;
+    width: var(--size);
+    height: var(--size);
+    object-fit: cover;
+    border-radius: 100%;
+    margin-bottom: var(--spacing);
+  }
+
+  .suplentes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: .5s;
+    color: white;
+  }
+
+  .p{
+    color: #fff;
+    background-color: rgba(#000, 0.5);
+    padding: 0 1rem;
+    line-height: 2;
+    border-radius: 1rem;
+    font-size: 0.9rem;
+  }
+
+  .div{
+    position: relative;
+  }
+
+  .button {
+    line-height: 2rem;
+    padding: 0 1rem;
+    border-radius: 1rem;
+  }
