@@ -9,7 +9,7 @@ import "./styles/styles.scss";
 const App = () => (
   <Provider store={store}> 
     <main>
-      <h1> Plantel River Plate </h1>
+      <h1> Plantel de River Plate </h1>
       <Jugadores />
       <EquipoSeleccionado />
     </main>
