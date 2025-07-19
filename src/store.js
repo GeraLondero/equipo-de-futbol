@@ -79,12 +79,12 @@ const initialState = {
     {
         id: 15,
         nombre: "Matias Galarza Fonda",
-        foto: ""
+        foto: "https://i.postimg.cc/pLg6907G/Whats-App-Image-2025-07-17-at-10-38-27-PM.jpg"
     },
     {
         id: 16,
         nombre: "Juan Carlos Portillo",
-        foto: ""
+        foto: "https://i.postimg.cc/BbLF1CRp/Whats-App-Image-2025-07-18-at-10-55-07-PM.jpg"
     },
     {
         id: 17,
@@ -114,7 +114,7 @@ const initialState = {
     {
         id: 22,
         nombre: "Juan Fernando Quintero",
-        foto: ""
+        foto: "https://i.postimg.cc/wT9RhJn9/Whats-App-Image-2025-07-18-at-11-07-04-PM.jpg"
     },
     {
         id: 23,
